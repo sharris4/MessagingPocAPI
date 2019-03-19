@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MessagingPoc.Api</name>
+    </assembly>
+    <members>
+        <member name="M:MessagingPoc.Api.Controllers.FoldersController.GetMessageFolders">
+            <summary>Returns all folders available.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.FoldersController.GetMessageFolder(System.Int32)">
+            <summary>Returns a specific folder and it's content.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.FoldersController.CreateNewFolder(MessagingPocApi.Models.FolderDto)">
+            <summary>Creates a new folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.FoldersController.PutFolder(System.Int32,MessagingPocApi.Models.FolderDto)">
+            <summary>Replaces/updates the specified folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.FoldersController.DeleteFolder(System.Int32)">
+            <summary>Deletes the specified folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.MessagesController.GetMessages(System.Int32)">
+            <summary>Returns all messages in the specified folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.MessagesController.GetMessage(System.Int32,System.Int32)">
+            <summary>Returns specific message in the specified folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.MessagesController.CreateNewMessage(MessagingPocApi.Models.MessageDto)">
+            <summary>Creates a new message in 'Send' folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.MessagesController.PutMessage(System.Int32,System.Int32,MessagingPocApi.Models.MessageDto)">
+            <summary>Replaces/updates a message in the specified folder.</summary>
+        </member>
+        <member name="M:MessagingPoc.Api.Controllers.MessagesController.DeleteFolder(System.Int32,System.Int32)">
+            <summary>Deletes a message in the specified folder.</summary>
+        </member>
+    </members>
+</doc>

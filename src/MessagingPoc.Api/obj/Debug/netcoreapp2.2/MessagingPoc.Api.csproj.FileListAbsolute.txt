@@ -1,0 +1,32 @@
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.deps.json
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.runtimeconfig.json
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.runtimeconfig.dev.json
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.dll
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.pdb
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.xml
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.csprojAssemblyReference.cache
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.csproj.CoreCompileInputs.cache
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.RazorAssemblyInfo.cache
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.RazorAssemblyInfo.cs
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.AssemblyInfoInputs.cache
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.AssemblyInfo.cs
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.RazorTargetAssemblyInfo.cache
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.dll
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.xml
+C:\Source\Team Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.pdb
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.deps.json
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.runtimeconfig.json
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.runtimeconfig.dev.json
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.dll
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.pdb
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\bin\Debug\netcoreapp2.2\MessagingPoc.Api.xml
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.csprojAssemblyReference.cache
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.csproj.CoreCompileInputs.cache
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.RazorAssemblyInfo.cache
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.RazorAssemblyInfo.cs
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.AssemblyInfoInputs.cache
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.AssemblyInfo.cs
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.RazorTargetAssemblyInfo.cache
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.dll
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.xml
+C:\Source\Team-Rocket\MessagingPocAPI\src\MessagingPoc.Api\obj\Debug\netcoreapp2.2\MessagingPoc.Api.pdb
