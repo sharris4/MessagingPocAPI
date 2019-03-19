@@ -80,20 +80,6 @@ namespace MessagingPoc.Api.Controllers
             return Ok(newFolder);
         }
 
-        // PATCH api/folders/3
-        // [HttpDelete("{id}")]
-        // public IActionResult PatchFolder(int folderId, [FromBody] FolderDto newFolder)
-        // {
-        //     if (newFolder == null)
-        //     {
-        //         return BadRequest();
-        //     }
-
-        //     var oldFolder = MockMessages.Current.Folders.FirstOrDefault(f => f.id == folderId);
-        //     oldFolder = newFolder;
-        //     return Ok(newFolder);
-        // }
-
         /// <summary>Deletes the specified folder.</summary>
         [SwaggerResponse(HttpStatusCode.OK, typeof(FolderDto))]
         [SwaggerResponse(HttpStatusCode.NotFound, typeof(IActionResult), Description = notFoundMessage)]
